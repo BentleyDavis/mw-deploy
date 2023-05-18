@@ -1,0 +1,6 @@
+[submodule "mwb11ty"]
+	path = mwb11ty
+	url = https://github.com/BentleyDavis/mwb11ty
+[submodule "massive-wiki"]
+	path = massive-wiki
+	url = https://github.com/BentleyDavis/massive-wiki
