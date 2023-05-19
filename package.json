@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "git submodule update --recursive --remote && cd mwb11ty && npm run build"
+    "build": "git submodule update --recursive --remote && cd mwb11ty && npm install && npm run build"
   },
   "keywords": [],
   "author": "",
