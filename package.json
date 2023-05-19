@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "git submodule update --recursive --remote && cd mwb11ty && npm run build"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
